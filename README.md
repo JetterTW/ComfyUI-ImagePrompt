@@ -26,8 +26,9 @@
 ```
 git clone https://github.com/JetterTW/ComfyUI-ImagePrompt.git
 ```
-3. 進入資料夾並確保已安裝依賴套件：
+3. 進入ComfyUI-ImagePromp 目錄並確保已安裝依賴套件：
 ```
+cd ComfyUI-ImagePromp
 pip install -r requirements.txt
 ```
 4. 重啟 ComfyUI。
