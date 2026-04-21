@@ -1,0 +1,8 @@
+# 網路請求處理
+requests
+
+# 圖像處理 (ComfyUI 通常已內建，但寫在裡面比較保險)
+Pillow
+
+# 數值計算 (ComfyUI 通常已內建)
+numpy
