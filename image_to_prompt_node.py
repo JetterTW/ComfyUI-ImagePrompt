@@ -117,6 +117,9 @@ class ImageToMultiPromptNode:
             ],
             "max_tokens": max_tokens,
             "temperature": temperature,
+            "chat_template_kwargs": {
+                "enable_thinking": False
+            },
             "seed": seed # 將 Seed 加入 API 請求以保證可重複性
         }
 
